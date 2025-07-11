@@ -28,6 +28,7 @@ export const Navigation = () => {
               />
             </div>
             <div className="hidden sm:block">
+              <div className="text-orange-700 text-lg font-bold leading-tight">ಶ್ರೀ ವಿಠ್ಠಲೋ ವಿಜಯತೇ</div>
               <h1 className="text-2xl font-bold text-orange-800">Shiroor Mutt</h1>
             </div>
           </Link>
