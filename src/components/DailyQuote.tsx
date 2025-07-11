@@ -7,13 +7,13 @@ export const DailyQuote = () => {
     <section ref={ref} className="py-16 bg-gradient-to-r from-orange-100 to-yellow-50 relative overflow-hidden">
       {/* Rotating Chakra Images */}
       <img
-        src="/chakra.png"
+        src="/Chakra.png"
         alt="Chakra Mandala"
         className="hidden md:block absolute left-0 top-1/2 -translate-y-1/2 w-40 h-40 opacity-30 animate-spin-slow z-20"
         style={{ animationDuration: '18s' }}
       />
       <img
-        src="/chakra.png"
+        src="/Chakra.png"
         alt="Chakra Mandala"
         className="hidden md:block absolute right-0 top-1/2 -translate-y-1/2 w-40 h-40 opacity-30 animate-spin-slow-reverse z-20"
         style={{ animationDuration: '18s' }}
@@ -86,7 +86,7 @@ export const DailyQuote = () => {
             <div className="relative">
               <div className="w-80 h-96 lg:w-96 lg:h-[480px] rounded-2xl overflow-hidden shadow-2xl hover:shadow-3xl transition-all duration-500">
                 <img
-                  src="/images/guru.png"
+                  src="/images/Guru.png"
                   alt="Spiritual Guide"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 />
