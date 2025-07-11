@@ -4,47 +4,47 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 
 const galleryImages = [
   {
-    src: "/pics/images/timeline/udupi-temple.jpg",
+    src: "/timeline/udupi-temple.jpg",
     alt: "Temple Architecture",
     category: "Architecture"
   },
   {
-    src: "/pics/images/timeline/modernization.jpg",
+    src: "/timeline/modernization.jpg",
     alt: "Sacred Rituals",
     category: "Rituals"
   },
   {
-    src: "/pics/images/festival.jpg",
+    src: "/festival.jpg",
     alt: "Festival Celebrations",
     category: "Festivals"
   },
   {
-    src: "/pics/images/timeline/digital-era.jpg",
+    src: "/timeline/digital-era.jpg",
     alt: "Daily Life",
     category: "Daily Life"
   },
   {
-    src: "/pics/images/events/gather.jpg",
+    src: "/events/gather.jpg",
     alt: "Spiritual Gatherings",
     category: "Gatherings"
   },
   {
-    src: "/pics/images/patterns/traditional-decor.jpg",
+    src: "/patterns/traditional-decor.jpg",
     alt: "Sacred Texts",
     category: "Texts"
   },
   {
-    src: "/pics/images/sevas/deepa.jpg",
+    src: "/sevas/deepa.jpg",
     alt: "Temple Interior",
     category: "Architecture"
   },
   {
-    src: "/pics/images/sevas/Pooja.jpg",
+    src: "/sevas/Pooja.jpg",
     alt: "Evening Aarti",
     category: "Rituals"
   },
   {
-    src: "/pics/images/events/pilli.jpg",
+    src: "/events/pilli.jpg",
     alt: "Cultural Performance",
     category: "Festivals"
   }

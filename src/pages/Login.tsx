@@ -29,7 +29,7 @@ const Login = () => {
           }`}>
             <div className="text-center mb-8">
               <div className="w-16 h-16 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center mx-auto mb-4 shadow-lg">
-                <img src="Shiroor.png" alt="Shiroor Mutt Logo" className="w-full h-full object-cover" />
+                <img src="/Shiroor.png" alt="Shiroor Mutt Logo" className="w-full h-full object-cover" />
               </div>
               <h1 className="text-3xl font-bold text-gray-900 mb-2">Welcome Back</h1>
               <p className="text-gray-600">Sign in to your devotee account</p>

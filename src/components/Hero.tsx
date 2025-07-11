@@ -5,21 +5,21 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 
 const heroSlides = [
   {
-    image: "/pics/images/Matha.jpeg",
+    image: "/Matha.jpeg",
     title: "Welcome to Shiroor Mutt",
     subtitle: "A Sacred Journey of Spiritual Heritage",
     description: "Experience the divine presence and ancient wisdom that has guided souls for centuries",
     cta: "Explore Our Heritage"
   },
   {
-    image: "/pics/images/sevas/Pooja.jpg",
+    image: "sevas/Pooja.jpg",
     title: "Daily Sevas & Pujas",
     subtitle: "Participate in Sacred Rituals",
     description: "Join us in our daily spiritual practices and contribute to the divine service",
     cta: "View Sevas"
   },
   {
-    image: "/pics/images/timeline/eight-mathas.jpg",
+    image: "/timeline/eight-mathas.jpg",
     title: "Upcoming Events",
     subtitle: "Festivals & Celebrations",
     description: "Be part of our spiritual celebrations and community gatherings",

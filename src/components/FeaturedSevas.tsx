@@ -8,21 +8,21 @@ const sevas = [
     title: "Daily Puja Seva",
     description: "Participate in the daily worship rituals and offerings",
     amount: "₹501",
-    image: "/pics/images/Dailypooja.png",
+    image: "/Dailypooja.png",
     popular: true
   },
   {
     title: "Anna Daan Seva",
     description: "Provide meals to devotees and visitors",
     amount: "₹1001",
-    image: "/pics/images/sevas/anna-dana.jpg",
+    image: "/sevas/anna-dana.jpg",
     popular: false
   },
   {
     title: "Gopuja Seva",
     description: "Support the care and feeding of holy cows",
     amount: "₹2001",
-    image: "/pics/images/Gopooja.jpg",
+    image: "/Gopooja.jpg",
     popular: false
   }
 ];
