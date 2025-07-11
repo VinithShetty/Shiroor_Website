@@ -12,7 +12,7 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-to-b from-orange-50 to-white">
       {/* Sanskrit/Kannada Title */}
       <div className="bg-orange-800 text-white py-2 text-center">
-        <h1 className="text-lg md:text-xl font-semibold tracking-wide">|| ಶ್ರೀ ಶಿರೂರು ಮಠ ||</h1>
+        <h1 className="text-lg md:text-xl font-semibold tracking-wide">|| ಶ್ರೀ ವಿಠ್ಠಲೋ ವಿಜಯತೇ ||</h1>
       </div>
       <Navigation />
       <Hero />
