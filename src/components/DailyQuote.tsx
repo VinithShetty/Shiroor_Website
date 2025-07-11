@@ -86,7 +86,7 @@ export const DailyQuote = () => {
             <div className="relative">
               <div className="w-80 h-96 lg:w-96 lg:h-[480px] rounded-2xl overflow-hidden shadow-2xl hover:shadow-3xl transition-all duration-500">
                 <img
-                  src="/images/Guru.png"
+                  src="/Guru.png"
                   alt="Spiritual Guide"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 />
